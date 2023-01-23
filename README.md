@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi I am Mahmudul Hasan
 
+I am a student of DCI.I live in Duiesburg Germany.
+
+- :sunglasses: Last year i finished Data Analysis from Coursera.
+- :roll_eyes: Now i am learning Web Devolopment in DCI.
+- :innocent: I love to learn new things.
+-  :smiley: linkdin: www.linkedin.com/in/mahmudul-hasan-52961023b
 <!--
 **Mahmudul-Hasan-G/Mahmudul-Hasan-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
